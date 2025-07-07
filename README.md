@@ -16,6 +16,6 @@
 
 ## OUT PUT PIC 
 
- ![Image Alt]([image_url](https://github.com/Sourav-9474/CREATE-A-SALES-DASHBOARD/blob/main/Screenshot%202025-07-07%20125012.png))
+ ![Image Alt](https://github.com/Sourav-9474/CREATE-A-SALES-DASHBOARD/blob/6004029eff1b708d1c6b7a528f3412ec40ae8593/Screenshot%202025-07-07%20125012.png)
 
 
